@@ -1,0 +1,80 @@
+img {
+    border-radius: 20px;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    padding-left: 5px;
+    display: flexbox;
+    width: 650px;
+    margin-left: 50px;
+}
+
+u {
+    color: blue;
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    margin-left: 150px;
+    padding-left: 5px;
+    display: flexbox;
+}
+
+
+.wiki-page-container {
+    display: flex;
+    padding: 5px 5px 5px 5px;
+    width: 500px;
+    padding-bottom: 250px;
+    margin-left: auto;
+    border: 5px solid black;
+    padding-right: 20px;
+
+}
+
+.wiki-image {
+    margin-right: auto;
+    padding: 5px 5px 5px 5px;
+    
+}
+
+.text-next-to-image-container {
+    align-items: left;
+}
+
+.wiki-title {
+    display: flex;
+    justify-content: center;
+    padding-right: 10px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.wiki-information {
+    font-size: 20px;
+    justify-content: left;
+    display: flex;
+    width: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.its-me-center {
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    padding-top: 50px;
+
+}
+
+.its-me-title {
+    justify-content: center;
+    padding-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    display: flex;
+    margin: auto;
+}
